@@ -135,7 +135,7 @@ The event brought together students from across Slovakia — and abroad — to c
     - Mix2 output (Venue projector via NDI -> vMix 4K on HP ZBook Fury 15 -> HDMI fullscreen)
     - Mix3 output (Confidence monitors via NDI -> vMix 4K on HP ZBook Fury 15 -> HDMI fullscreen)
     - Mix4 output (Arena Countdown/sponsors via NDI -> NDI Bridge -> ZowieBox - Samsung TV)
-    - Fullscreen Multiview 1 (2+8)
+    - Full screen Multiview 1 (2+8)
     - Full screen Multiview 2 (16)
 - **Audio Outputs (8x)**:
     - Master - ATH M20x (editor)
@@ -173,6 +173,18 @@ The event brought together students from across Slovakia — and abroad — to c
     - iPad + Mixing Station app
     - Google Pixel 3A + Mixing Station app
     - Behringer BCF2000 motorised controller
+
+## Countdown
+The Arena Countdown is a custom-made transparent WebM (VP9+Opus) video with a timer and event logos. It is used as an overlay along with SPX template on the main output and also displayed on the TV in the arena.
+
+It was originally created as an HTML5 page by [Martin Čamaj](https://camajko.sk) available on [Screentimer.Camajko.sk](https://www.screentimer.camajko.sk).
+This was then recorded in OBS (with custom CSS to enable background transparency) into 3 renditions - with black, green and transparent background.
+
+It is designed to be used with vMix 4K and can be controlled via the Elgato Stream Deck Mini. The countdown can be configured, reset, started, and stopped using the buttons on the Stream Deck Mini.
+![Countdown Black](docs/countdown_black.png)
+
+Alternative version with green background to key out was created in case vMix didn't properly support transparent WebMs, but was not used during the show as no transparency or keying was needed.
+![Countdown Black](docs/countdown_green.png)
 
 ## vMix 4 M/E testing preset
 [Colours_test.vmix](vmix-4me/colours_test.vmix)

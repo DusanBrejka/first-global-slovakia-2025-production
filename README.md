@@ -1,9 +1,9 @@
 # 🤖 FIRST Global Slovakia 2025 – AV Production & Infrastructure
 
 This repository documents the **audiovisual (AV) production and technical infrastructure** used during  
-**FIRST Global Slovakia 2025**, a national high school robotics competition hosted at the **Aurelium science experience center** in Bratislava, Slovakia.
+**[FIRST Global Slovakia 2025](https://firstglobal.sk/)**, a national high school robotics competition hosted at the **[Aurelium science experience center](https://aurelium.sk)** in Bratislava, Slovakia.
 
-The event brought together students from across Slovakia — and abroad — to collaborate, compete, and innovate in a day-long robotics challenge inspired by the global **FIRST Global** initiative, which promotes STEM education through hands-on robotics and international cooperation.
+The event brought together students from across Slovakia — and abroad — to collaborate, compete, and innovate in a day-long robotics challenge inspired by the global **[FIRST Global](https://first.global/)** initiative, which promotes STEM education through hands-on robotics and international cooperation.
 
 > 🎓 *"FIRST Global Slovakia supports science and technology education through robotics and participation in the international FIRST Global Olympic-style robotics challenge."*
 
@@ -15,8 +15,10 @@ The event brought together students from across Slovakia — and abroad — to c
 - **Event**: FIRST Global Slovakia 2025
 - **Date**: 6th May, 2025
 - **Venue**: [Aurelium – Zážitkové centrum vedy CVTI](https://aurelium.sk), Bratislava, Slovakia
-- **Organiser**: [FIRST Global Slovakia, o.z.](https://firstglobal.sk)
-- **Technical Director**: [Dušan Brejka](https://www.linkedin.com/in/dusanbrejka), [Nyxotek s.r.o](https://nyxotek.com)
+- **Organiser**: [FIRST Global Slovakia, o.z.](https://firstglobal.sk) - [info@firstglobal.sk](info@firstglobal.sk)
+- **Project Manager**: [Adam Kukla](https://www.linkedin.com/in/adam-kukla-69563640/) - [info@firstglobal.sk](info@firstglobal.sk)
+- **Technical Director**: [Dušan Brejka](https://www.linkedin.com/in/dusanbrejka), [Nyxotek s.r.o](https://nyxotek.com) & [Reactoo Limited](https://reactoo.com)
+- **Producers & Operators**: [Martin Hronský](https://www.linkedin.com/in/mhronsky/), [Peter Iglarčík](https://github.com/Peter-Iglarcik), [Andrej Bartek](https://www.facebook.com/andrej.bartek.1), [Martin Čamaj](https://camajko.sk/), [Lucia Benčová](https://www.linkedin.com/in/lucia-bencova-750b04327/), [Tomáš Murín](https://www.instagram.com/murin.original/)
 - **Language**: Slovak / English
 - **Audience**: 200 attendees (students, teachers, sponsors, tech community)
 - **Livestream**: [Watch on YouTube](https://www.youtube.com/watch?v=Bdw5WTcBl3U)

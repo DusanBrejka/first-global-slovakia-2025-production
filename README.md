@@ -292,12 +292,27 @@ Below is a list of all tracks used:
 This is a 4 M/E boilerplate - preset for vMix 4K useful for testing complex routing options. It includes 16 inputs mixable into 4 Mix outputs with fade transition and current time as static overlay on Mix 4. PGM is routable to other Mixes.
 ![vMix_colours_test.png](vmix-4me/vMix_colours_test.png)
 
-## Bitfocus Companion configuration
-[Compantion Buttons Config](vmix-4me/vmix_4me_sdxl.companionconfig) - compatible with Elgato Stream Deck XL
+You should ideally use this preset along with Bitfocus Companion configuration file for the Elgato Stream Deck XL mentioned below.
 
-![Buttons 1](vmix-4me/buttons1.png)
-![Buttons 2](vmix-4me/buttons2.png)
-![Buttons 3](vmix-4me/buttons3.png)
+## Bitfocus Companion configuration
+[vmix_4me_sdxl.companionconfig](vmix-4me/vmix_4me_sdxl.companionconfig) - compatible with Elgato Stream Deck XL
+
+![streamdeck_xl_photo.jpg](vmix-4me/streamdeck_xl_photo.jpg)
+
+This is a Bitfocus Companion configuration file for the Elgato Stream Deck XL, which includes buttons for controlling vMix 4K 4 M/E setup.
+It allows you to control the Preview (PVW), Program (PGM), Full screen 1-2 output, Mixes 2-4 (Mix 1 = PGM), Overlays, and media players directly from the Stream Deck XL along with other controllers.
+
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/vmix-4me/buttons1.png?raw=true" width="30%" />](vmix-4me/buttons1.png)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/vmix-4me/buttons2.png?raw=true" width="30%" />](vmix-4me/buttons2.png)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/vmix-4me/buttons3.png?raw=true" width="30%" />](vmix-4me/buttons3.png)
+
+Preview (PVW) input buttons are cutting (sending) the input to the Preview bus on Mix 1, while the Program (PGM) input buttons are cutting the input to the PGM bus without changing the preview. This behaviour is more common for matrix switchers such as Winwet Hy-1650HD used in conjunction with other master switchers, where the Preview bus is used to prepare the next input before cutting it to the Program output.
+
+The Mix buttons allow you to control the Mixes 2-4 which are typically set as outputs 2-4 in vMix.
+![vmix_outputs.png](vmix-4me/vmix_outputs.png)
+
+In Bitfocus Companion, the Input buttons on Mix 2-4 are set to send the Input to the Preview of that Mix and straight after transition it to the Program output of that Mix via Fade transition with a duration of 300ms by default. This duration is configured as a $(custom:mix_transition_duration) variable in the configuration file, which can be adjusted to your needs globally.
+![buttons_mix2.png](vmix-4me/buttons_mix2.png)
 
 ---
 

@@ -183,10 +183,23 @@ It was originally created as an HTML5 page by [Martin Čamaj](https://camajko.sk
 This was then recorded in OBS (with custom CSS to enable background transparency) into 3 renditions - with black, green and transparent background.
 
 It is designed to be used with vMix 4K and can be controlled via the Elgato Stream Deck Mini. The countdown can be configured, reset, started, and stopped using the buttons on the Stream Deck Mini.
-![Countdown Black](docs/countdown_black.png)
+
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/countdown_black.png?raw=true" width="30%" />](docs/countdown_black.png) 
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/countdown_green.png?raw=true" width="30%" />](docs/countdown_green.png)
 
 Alternative version with green background to key out was created in case vMix didn't properly support transparent WebMs, but was not used during the show as no transparency or keying was needed.
-![Countdown Black](docs/countdown_green.png)
+
+### Countdown Automation
+The countdown automation is controlled via the Elgato Stream Deck Mini, which has buttons for:
+- **Arena Timer TV Toggle**: Sets the Arena TV (Mix 4) to the countdown video or Sponsors presentation loop
+- **Timer RESET**: Resets the countdown 2:30 and stops the timer
+- **Timer START**: Starts or pauses the countdown timer
+- **Logo Overlay**: Toggles the static logo overlay on and off (Ovl 2)
+- **SPX Overlay**: Toggles the SPX fullscreen overlays on and off (Ovl 3)
+- **Timer Overlay**: Toggles the countdown cropped virtual input overlay on and off (Ovl 4)
+
+![streamdeck_mini_photo.jpg](vmix-4me%2Fstreamdeck_mini_photo.jpg)
+
 
 ## 🎵 Music Playlist Used During the Event
 

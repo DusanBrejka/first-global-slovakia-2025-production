@@ -47,7 +47,7 @@ The event brought together students from across Slovakia — and abroad — to c
 - HP Z8 G4 (2x RTX 4000 Ada)
 - HP ZBook Fury 15 (RTX 4000)
 - 2x Lenovo P14s G4 (RTX A500)
-- Winwet 1650HD
+- Winwet Hy-1650HD
 - Elgato Stream Deck XL
 - Elgato Stream Deck Mini
 - Elgato Stream Deck +
@@ -300,6 +300,16 @@ This is a 4 M/E boilerplate - preset for vMix 4K useful for testing complex rout
 ![Buttons 3](vmix-4me/buttons3.png)
 
 ---
+
+## Winwet Hy-1650HD configuration
+[winwet_hy-1650hd_vmix_config.config](vmix-4me/winwet_hy-1650hd_vmix_config.config) - vMix Shortcuts & Activators
+
+>❗Warning: Backup your current vMix configuration before importing this file❗
+
+Importing this configuration will overwrite your existing vMix Shortcuts and Activators and reset all the other settings to vMix defaults. I suggest importing it manually by modifying your current XML configuration to ensure you don't lose any other settings you may have.
+
+![winwet_hy-1650hd.jpg](vmix-4me%2Fwinwet_hy-1650hd.jpg)
+
 
 ## 🙌 Why This Exists
 

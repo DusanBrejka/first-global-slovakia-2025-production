@@ -25,11 +25,14 @@ The event brought together students from across Slovakia — and abroad — to c
 - **Master Switcher**: [vMix 4K](https://www.vmix.com/software/vmix-4k.aspx) on HP Z8 G4
 - **Recording Video Format**: 4K @ 59.94 fps (progressive)
 
-![<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global1.jpg?raw=true" width="22%" />](docs/first_global1.jpg)
-![<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global2.jpg?raw=true" width="22%" />](docs/first_global2.jpg)
-![<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global3.jpg?raw=true" width="22%" />](docs/first_global3.jpg)
-![<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global4.jpg?raw=true" width="22%" />](docs/first_global4.jpg)
+<div style="text-align: center;">
 
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global1.jpg?raw=true" width="22%" />](docs/first_global1.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global2.jpg?raw=true" width="22%" />](docs/first_global2.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global3.jpg?raw=true" width="22%" />](docs/first_global3.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global4.jpg?raw=true" width="22%" />](docs/first_global4.jpg)
+
+</div>
 
 ---
 

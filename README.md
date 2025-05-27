@@ -186,6 +186,91 @@ It is designed to be used with vMix 4K and can be controlled via the Elgato Stre
 Alternative version with green background to key out was created in case vMix didn't properly support transparent WebMs, but was not used during the show as no transparency or keying was needed.
 ![Countdown Black](docs/countdown_green.png)
 
+## 🎵 Music Playlist Used During the Event
+
+All music used during the event was sourced from the [YouTube Audio Library](https://www.youtube.com/audiolibrary), which provides free music for creators. Our selection was driven by the need for dynamic, non-distracting background tracks that would suit a wide variety of scenes. We prioritized tracks that had a cinematic or rhythmic quality, modern production, and would keep the energy consistent across the stream.
+
+Below is a list of all tracks used:
+
+| Artist              | Title                            | Duration |
+|---------------------|----------------------------------|----------|
+| Adam MacDougall     | Future Freeway                   | 4:40     |
+| Anno Domini Beats   | Lifelong                         | 4:05     |
+| Bail Bonds          | I Feel It All So Deeply          | 0:57     |
+| Bobby Richards      | Brass Orchid                     | 2:26     |
+| Bobby Richards      | Mirror Mind                      | 1:54     |
+| Bobby Richards      | Muriel                           | 1:44     |
+| Corbyn Kites        | Birds                            | 2:00     |
+| Corbyn Kites        | Instant Crush                    | 1:57     |
+| Causmic             | Business As Usual                | 2:45     |
+| Causmic             | Contact                          | 2:50     |
+| Causmic             | Distant Love                     | 2:50     |
+| Causmic             | Flight To Tunisia                | 2:56     |
+| Causmic             | Hasta La Vista                   | 3:12     |
+| Causmic             | Much Higher                      | 2:50     |
+| Causmic             | Side Show                        | 3:04     |
+| Causmic             | Soul Searching                   | 2:50     |
+| Causmic             | Stranger Things                  | 2:58     |
+| Causmic             | The High Line                    | 2:54     |
+| Cumbia Deli         | Summer Somewhere In Cuba         | 2:43     |
+| DivKid              | Polaroid Memories                | 2:48     |
+| Dyalla              | Back to the 80s                  | 2:02     |
+| Dyalla              | Good Energy                      | 2:29     |
+| Dyalla              | Observer                         | 2:57     |
+| Dyalla              | Refresher                        | 1:56     |
+| Dyalla              | Sesame                           | 1:54     |
+| Everet Almond       | Country Rough                    | 2:39     |
+| Everet Almond       | Get Over It                      | 2:46     |
+| Everet Almond       | Running It Down                  | 3:02     |
+| Everet Almond       | Win The Battle Win The War       | 2:38     |
+| French Fuse         | Tropic Fuse                      | 1:49     |
+| Futuremono          | Komorebi                         | 2:19     |
+| Geographer          | Alley Cat                        | 3:03     |
+| Geographer          | Arpeggisynth                     | 2:52     |
+| Geographer          | Arp Bounce                       | 4:07     |
+| Geographer          | Day Sparkles                     | 2:42     |
+| Geographer          | Easy Shake                       | 2:11     |
+| Geographer          | Feather Duster                   | 1:30     |
+| Geographer          | Fine Line                        | 2:35     |
+| Geographer          | Luge                             | 2:37     |
+| Geographer          | Slip                             | 2:28     |
+| Geographer          | Synergy                          | 2:42     |
+| Geographer          | Time Parade                      | 3:32     |
+| half.cool           | Gemini                           | 2:26     |
+| half.cool           | Hey There                        | 1:36     |
+| half.cool           | Insta Beat Vixens                | 1:54     |
+| half.cool           | Next Steps                       | 2:20     |
+| half.cool           | Peachy                           | 1:38     |
+| half.cool           | Sharp Edges                      | 2:27     |
+| half.cool           | This Close                       | 2:13     |
+| half.cool           | Virtual Roaming Charges          | 1:40     |
+| half.cool           | Will 2 Pwr                       | 2:20     |
+| half.cool           | Yes and No at the Same Time      | 2:40     |
+| Jeremy Black        | Hannon                           | 3:39     |
+| Jeremy Black        | West Bad                         | 3:36     |
+| Jeremy Korpas       | Let's Keep Trying                | 1:40     |
+| Jeremy Korpas       | Sugar High                       | 1:50     |
+| josh pan            | Calvin Harris                    | 2:36     |
+| josh pan            | Guitar House                     | 2:12     |
+| NoMBe               | Back To The Future Jellyfish     | 3:25     |
+| NoMBe               | Colour Of Your Face              | 2:08     |
+| NoMBe               | Perfect Ten To Me                | 2:04     |
+| Ofshane             | One More Time                    | 2:43     |
+| Quincas Moreira     | Funky Carioca                    | 3:04     |
+| Ramzoid             | Princess                         | 2:54     |
+| SefChol             | Always the Same                  | 3:04     |
+| SefChol             | Circle Dance                     | 2:41     |
+| SefChol             | It's Almost Over                 | 3:01     |
+| SefChol             | Soft Knives                      | 3:37     |
+| SefChol             | Take it Slow                     | 2:59     |
+| SefChol             | Two Sides                        | 3:14     |
+| Slynk               | Alone Time                       | 3:21     |
+| Spence              | Retrograde                       | 2:59     |
+| The Soundlings      | Distrust The System              | 2:18     |
+| The Soundlings      | Moving In The Shadows            | 2:29     |
+| TrackTribe          | Pioneers                         | 2:50     |
+
+
 ## vMix 4 M/E testing preset
 [Colours_test.vmix](vmix-4me/colours_test.vmix)
 

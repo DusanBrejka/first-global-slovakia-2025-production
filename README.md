@@ -10,28 +10,6 @@ The event brought together students from across Slovakia — and abroad — to c
 
 ---
 
-## 📅 Event Summary
-
-- **Event**: FIRST Global Slovakia 2025
-- **Date**: 6th May, 2025
-- **Venue**: [Aurelium – Zážitkové centrum vedy CVTI](https://aurelium.sk), Bratislava, Slovakia
-- **Organiser**: [FIRST Global Slovakia, o.z.](https://firstglobal.sk) - [info@firstglobal.sk](info@firstglobal.sk)
-- **Project Manager**: [Adam Kukla](https://www.linkedin.com/in/adam-kukla-69563640/) - [info@firstglobal.sk](info@firstglobal.sk)
-- **Technical Director**: [Dušan Brejka](https://www.linkedin.com/in/dusanbrejka), [Nyxotek s.r.o](https://nyxotek.com) & [Reactoo Limited](https://reactoo.com)
-- **Producers & Operators**: [Martin Hronský](https://www.linkedin.com/in/mhronsky/), [Peter Iglarčík](https://github.com/Peter-Iglarcik), [Andrej Bartek](https://www.facebook.com/andrej.bartek.1), [Martin Čamaj](https://camajko.sk/), [Lucia Benčová](https://www.linkedin.com/in/lucia-bencova-750b04327/), [Tomáš Murín](https://www.instagram.com/murin.original/)
-- **Language**: Slovak / English
-- **Audience**: 200 attendees (students, teachers, sponsors, tech community)
-- **Livestream**: [Watch on YouTube](https://www.youtube.com/watch?v=Bdw5WTcBl3U)
-- **Master Switcher**: [vMix 4K](https://www.vmix.com/software/vmix-4k.aspx) on HP Z8 G4
-- **Recording Video Format**: 4K @ 59.94 fps (progressive)
-
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global1.jpg?raw=true" width="24%" />](docs/first_global1.jpg)
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global2.jpg?raw=true" width="24%" />](docs/first_global2.jpg)
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global3.jpg?raw=true" width="24%" />](docs/first_global3.jpg)
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global4.jpg?raw=true" width="24%" />](docs/first_global4.jpg)
-
----
-
 ## 📑 Table of Contents
 
 - [📅 Event Summary](#-event-summary)
@@ -53,6 +31,28 @@ The event brought together students from across Slovakia — and abroad — to c
 - [Winwet Hy-1650HD configuration](#winwet-hy-1650hd-configuration)
 - [🙌 Why This Exists](#-why-this-exists)
 - [💡 License](#-license)
+
+---
+
+## 📅 Event Summary
+
+- **Event**: FIRST Global Slovakia 2025
+- **Date**: 6th May, 2025
+- **Venue**: [Aurelium – Zážitkové centrum vedy CVTI](https://aurelium.sk), Bratislava, Slovakia
+- **Organiser**: [FIRST Global Slovakia, o.z.](https://firstglobal.sk) - [info@firstglobal.sk](info@firstglobal.sk)
+- **Project Manager**: [Adam Kukla](https://www.linkedin.com/in/adam-kukla-69563640/) - [info@firstglobal.sk](info@firstglobal.sk)
+- **Technical Director**: [Dušan Brejka](https://www.linkedin.com/in/dusanbrejka), [Nyxotek s.r.o](https://nyxotek.com) & [Reactoo Limited](https://reactoo.com)
+- **Producers & Operators**: [Martin Hronský](https://www.linkedin.com/in/mhronsky/), [Peter Iglarčík](https://github.com/Peter-Iglarcik), [Andrej Bartek](https://www.facebook.com/andrej.bartek.1), [Martin Čamaj](https://camajko.sk/), [Lucia Benčová](https://www.linkedin.com/in/lucia-bencova-750b04327/), [Tomáš Murín](https://www.instagram.com/murin.original/)
+- **Language**: Slovak / English
+- **Audience**: 200 attendees (students, teachers, sponsors, tech community)
+- **Livestream**: [Watch on YouTube](https://www.youtube.com/watch?v=Bdw5WTcBl3U)
+- **Master Switcher**: [vMix 4K](https://www.vmix.com/software/vmix-4k.aspx) on HP Z8 G4
+- **Recording Video Format**: 4K @ 59.94 fps (progressive)
+
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global1.jpg?raw=true" width="24%" />](docs/first_global1.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global2.jpg?raw=true" width="24%" />](docs/first_global2.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global3.jpg?raw=true" width="24%" />](docs/first_global3.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global4.jpg?raw=true" width="24%" />](docs/first_global4.jpg)
 
 ---
 

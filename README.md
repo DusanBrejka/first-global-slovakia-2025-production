@@ -25,14 +25,10 @@ The event brought together students from across Slovakia — and abroad — to c
 - **Master Switcher**: [vMix 4K](https://www.vmix.com/software/vmix-4k.aspx) on HP Z8 G4
 - **Recording Video Format**: 4K @ 59.94 fps (progressive)
 
-<div style="text-align: center;">
-
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global1.jpg?raw=true" width="22%" />](docs/first_global1.jpg)
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global2.jpg?raw=true" width="22%" />](docs/first_global2.jpg)
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global3.jpg?raw=true" width="22%" />](docs/first_global3.jpg)
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global4.jpg?raw=true" width="22%" />](docs/first_global4.jpg)
-
-</div>
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global1.jpg?raw=true" width="24%" />](docs/first_global1.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global2.jpg?raw=true" width="24%" />](docs/first_global2.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global3.jpg?raw=true" width="24%" />](docs/first_global3.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/first_global4.jpg?raw=true" width="24%" />](docs/first_global4.jpg)
 
 ---
 
@@ -47,6 +43,20 @@ The event brought together students from across Slovakia — and abroad — to c
 
 ### 🎚️ [Control Room](docs/control_room_photo.jpg)
 ![Control Room](docs/control_room_photo.jpg)
+
+---
+
+## 📜 Running Order & Show Script
+
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/fg_script1.png?raw=true" width="45%" />](docs/fg_script1.png)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/fg_script2.png?raw=true" width="45%" />](docs/fg_script2.png)
+
+The following documents contain the official running order and livestream script for the event. It was collaboratively authored by **Martin Hronský** and **Adam Kukla**, initially written in Slovak and later translated into English for the purpose of this repository.
+
+These materials were crucial in maintaining a consistent show flow, ensuring smooth transitions between segments, and aligning the entire production team — from technical crew to stage management and commentators.
+
+[First_Global_Slovakia_2025_script.xlsx](docs/First_Global_Slovakia_2025_script.xlsx)
+
 
 ---
 

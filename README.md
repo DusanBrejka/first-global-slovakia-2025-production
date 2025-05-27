@@ -48,10 +48,10 @@ The event brought together students from across Slovakia — and abroad — to c
 
 ## 📜 Running Order & Show Script
 
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/fg_script1.png?raw=true" width="45%" />](docs/fg_script1.png)
-[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/fg_script2.png?raw=true" width="45%" />](docs/fg_script2.png)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/fg_script1.png?raw=true" width="40%" />](docs/fg_script1.png)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/docs/fg_script2.png?raw=true" width="38.4%" />](docs/fg_script2.png)
 
-The following documents contain the official running order and livestream script for the event. It was collaboratively authored by **Martin Hronský** and **Adam Kukla**, initially written in Slovak and later translated into English for the purpose of this repository.
+The following documents contain the official running order and livestream script for the event. It was collaboratively authored by **[Martin Hronský](https://www.linkedin.com/in/mhronsky/)** and **[Adam Kukla](https://www.linkedin.com/in/adam-kukla-69563640/)**, initially written in Slovak and later translated into English for the purpose of this repository.
 
 These materials were crucial in maintaining a consistent show flow, ensuring smooth transitions between segments, and aligning the entire production team — from technical crew to stage management and commentators.
 
@@ -217,7 +217,7 @@ The countdown automation is controlled via the Elgato Stream Deck Mini, which ha
 - **SPX Overlay**: Toggles the SPX fullscreen overlays on and off (Ovl 3)
 - **Timer Overlay**: Toggles the countdown cropped virtual input overlay on and off (Ovl 4)
 
-![streamdeck_mini_photo.jpg](vmix-4me%2Fstreamdeck_mini_photo.jpg)
+[<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/vmix-4me/streamdeck_mini_photo.jpg?raw=true" width="40%" />](vmix-4me/streamdeck_mini_photo.jpg)
 
 
 ## 🎵 Music Playlist Used During the Event
@@ -371,7 +371,11 @@ You are free to:
 - **Adapt** — remix, transform, and build upon the material
 
 **Under the following terms:**
-- **Attribution** — You must give appropriate credit to the original author, Dušan Brejka, and link to this repository or [https://brejka.sk](https://brejka.sk).
+- **Attribution** — You must give appropriate credit to the original authors:
+    - **Dušan Brejka** (main documentation and repository owner)
+    - **Martin Hronský** and **Adam Kukla** (event running order and livestream script)
+
+  Please link to this repository or [https://brejka.sk](https://brejka.sk) when citing or referencing the content.
 - **NonCommercial** — You may not use the material for commercial purposes.
 
 Commercial use (such as for paid events, services, or products) requires **prior written permission**.

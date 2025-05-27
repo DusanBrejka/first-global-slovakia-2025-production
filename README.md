@@ -32,6 +32,30 @@ The event brought together students from across Slovakia — and abroad — to c
 
 ---
 
+## 📑 Table of Contents
+
+- [📅 Event Summary](#-event-summary)
+- [🗺️ Diagrams & Visuals](#-diagrams--visuals)
+- [📜 Running Order & Show Script](#-running-order--show-script)
+- [🎥 AV & Production Hardware](#-av--production-hardware)
+    - [📹 Video](#-video)
+    - [🎥 Cameras](#-cameras)
+    - [🎧 Audio](#-audio)
+    - [🌐 Networking](#-networking)
+- [🖥️ Master Switcher configuration](#-master-switcher-configuration)
+    - [vMix 4K 4M/E I/O](#vmix-4k-4me-io)
+    - [Behringer XR18 configuration](#behringer-xr18-configuration)
+- [⏱️ Countdown](#countdown)
+    - [Countdown Automation](#countdown-automation)
+- [🎵 Music Playlist Used During the Event](#-music-playlist-used-during-the-event)
+- [vMix 4 M/E testing preset](#vmix-4-me-testing-preset)
+- [Bitfocus Companion configuration](#bitfocus-companion-configuration)
+- [Winwet Hy-1650HD configuration](#winwet-hy-1650hd-configuration)
+- [🙌 Why This Exists](#-why-this-exists)
+- [💡 License](#-license)
+
+---
+
 ## 🗺️ Diagrams & Visuals
 
 ### 📌 [Venue Map](docs/venue_map.png)

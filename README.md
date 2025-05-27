@@ -207,6 +207,9 @@ All music used during the event was sourced from the [YouTube Audio Library](htt
 
 Below is a list of all tracks used:
 
+<details >
+  <summary><strong>Click to expand the list</strong></summary>
+
 | Artist              | Title                            | Duration |
 |---------------------|----------------------------------|----------|
 | Adam MacDougall     | Future Freeway                   | 4:40     |
@@ -285,6 +288,7 @@ Below is a list of all tracks used:
 | The Soundlings      | Moving In The Shadows            | 2:29     |
 | TrackTribe          | Pioneers                         | 2:50     |
 
+</details>
 
 ## vMix 4 M/E testing preset
 [Colours_test.vmix](vmix-4me/colours_test.vmix)

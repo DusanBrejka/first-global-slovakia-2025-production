@@ -25,6 +25,10 @@ The event brought together students from across Slovakia — and abroad — to c
     - [Behringer XR18 configuration](#behringer-xr18-configuration)
 - [⏱️ Countdown](#countdown)
     - [Countdown Automation](#countdown-automation)
+- [🧮 Scoreboard Overlay](#-scoreboard-overlay)
+    - [🎨 Scoreboard Overlay Design](#-scoreboard-overlay-design)
+    - [🧪 Alternative Scoreboards](#-alternative-scoreboards)
+    - [SPX Template](#spx-template)
 - [🎵 Music Playlist Used During the Event](#-music-playlist-used-during-the-event)
 - [vMix 4 M/E testing preset](#vmix-4-me-testing-preset)
 - [Bitfocus Companion configuration](#bitfocus-companion-configuration)
@@ -157,6 +161,8 @@ These materials were crucial in maintaining a consistent show flow, ensuring smo
     - iZotope Ozone 9
     - SPX Graphics
 
+---
+
 ## vMix 4K 4M/E I/O
 - **Inputs (30x)**:
     - 4x HDMI inputs (2x Z Cam E2N, 1x Obsbot Tail Air, Production Laptop)
@@ -196,6 +202,8 @@ These materials were crucial in maintaining a consistent show flow, ensuring smo
     - 3x NDI PTZ control
     - 3x NDI Tally Light (2x Z Cam E2N, 1x Zowiebox - Stage Laptop)
 
+---
+
 ## Behringer XR18 configuration
 - **Inputs**:
     - 1 Wireless mic (Sennheiser EM 100 G4)
@@ -218,6 +226,8 @@ These materials were crucial in maintaining a consistent show flow, ensuring smo
     - iPad + Mixing Station app
     - Google Pixel 3A + Mixing Station app
     - Behringer BCF2000 motorised controller
+
+---
 
 ## Countdown
 The Arena Countdown is a custom-made transparent WebM (VP9+Opus) video with a timer and event logos. It is used as an overlay along with SPX template on the main output and also displayed on the TV in the arena.
@@ -243,6 +253,44 @@ The countdown automation is controlled via the Elgato Stream Deck Mini, which ha
 
 [<img src="https://github.com/DusanBrejka/first-global-slovakia-2025-production/blob/master/vmix-4me/streamdeck_mini_photo.jpg?raw=true" width="40%" />](vmix-4me/streamdeck_mini_photo.jpg)
 
+---
+
+## 🧮 Scoreboard Overlay
+
+We used a **custom [SPX graphics overlay](https://www.spx.graphics)** for the live scoreboard display, rendered as a web browser input in vMix, additionally overlaid by a transparent video input for the countdown timer.
+
+It was visible throughout matches and featured:
+- Match number
+- Team and School names
+- Timer (2:30 match duration)
+- Branding for *FIRST Global Slovakia*
+
+### 🎨 Scoreboard Overlay Design
+The scoreboard was designed to be clear and readable on various backgrounds, and was used to keep the audience informed about the current match status:
+
+![scoreboard2.png](docs/scoreboard2.png)
+![scoreboard3.png](docs/scoreboard3.png)
+![scoreboard4.png](docs/scoreboard4.png)
+
+### 🧪 Alternative Scoreboards
+Alternative scoreboard versions in different sizes were designed during pre-production testing, but were ultimately **not used** in the final broadcast. Below are example screenshots of those alternative versions:
+
+<details >
+  <summary><strong>Click to expand the list</strong></summary>
+
+![scoreboard_alt1.jpg](docs/scoreboard_alt1.jpg)
+![scoreboard_alt2.jpg](docs/scoreboard_alt2.jpg)
+</details>
+
+### SPX Template
+This SPX template was developed by **[Martin Hronský](https://www.linkedin.com/in/mhronsky/)**, later modernised by **[Dušan Brejka](https://brejka.sk/)** and made publicly available on [Martin's Github repository](https://github.com/MackoSKZH/fg-2025-templates).
+
+The SPX overlay and countdown timer were turned on and off during the event using dedicated buttons on the Elgato Stream Deck Mini.
+The SPX server was running on the vMix master switcher machine and the text fields of the scoreboard were updated via dedicated laptop connected to the same network.
+
+![spx.png](docs/spx.png)
+
+---
 
 ## 🎵 Music Playlist Used During the Event
 
@@ -333,6 +381,8 @@ Below is a list of all tracks used:
 
 </details>
 
+---
+
 ## vMix 4 M/E testing preset
 [Colours_test.vmix](vmix-4me/colours_test.vmix)
 
@@ -372,6 +422,7 @@ Importing this configuration will overwrite your existing vMix Shortcuts and Act
 
 ![winwet_hy-1650hd.jpg](vmix-4me%2Fwinwet_hy-1650hd.jpg)
 
+---
 
 ## 🙌 Why This Exists
 
@@ -398,6 +449,8 @@ You are free to:
 - **Attribution** — You must give appropriate credit to the original authors:
     - **Dušan Brejka** (main documentation and repository owner)
     - **Martin Hronský** and **Adam Kukla** (event running order and livestream script)
+    - **Martin Hronský** and **Dušan Brejka** (SPX scoreboard overlay)
+    - **Martin Čamaj** (Arena Countdown HTML5 page)
 
   Please link to this repository or [https://brejka.sk](https://brejka.sk) when citing or referencing the content.
 - **NonCommercial** — You may not use the material for commercial purposes.

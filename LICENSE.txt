@@ -1,25 +1,29 @@
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+LICENSE
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This repository and all its contents (documentation, diagrams, configurations, and media) are licensed under:
+
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/
 
 You are free to:
-
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material
 
 Under the following terms:
+- Attribution — You must give appropriate credit to the original authors:
+    - Dušan Brejka (main documentation and repository owner)
+    - Martin Hronský and Adam Kukla (event running order and livestream script)
+    - Martin Hronský and Dušan Brejka (SPX scoreboard overlay)
+    - Martin Čamaj (Arena Countdown HTML5 page)
 
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-  Example: "Based on work by Dušan Brejka (https://brejka.sk), used under CC BY-NC 4.0."
+  Please link to this repository or https://brejka.sk when citing or referencing the content.
+- NonCommercial — You may not sell or commercially redistribute this material on its own or as part of paid products, courses, or services.
 
-- NonCommercial — You may not use the material for commercial purposes.
+You can use this material in commercial environments (e.g., live events, client work),
+but you may not sell, license, or monetize the information itself without prior written permission.
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-For any commercial use — including but not limited to use in paid events, commercial services, or monetized products — you must obtain prior written permission from:
-
-Dušan Brejka  
+Contact:
+Dušan Brejka
 https://brejka.sk
 Nyxotek s.r.o. — https://nyxotek.com
 

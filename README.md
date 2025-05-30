@@ -23,6 +23,7 @@ The event brought together students from across Slovakia — and abroad — to c
 - [🖥️ Master Switcher configuration](#-master-switcher-configuration)
     - [vMix 4K 4M/E I/O](#vmix-4k-4me-io)
     - [Behringer XR18 configuration](#behringer-xr18-configuration)
+    - [🔁 Syncing A/V Latency](#-syncing-av-latency)
 - [⏱️ Countdown](#countdown)
     - [Countdown Automation](#countdown-automation)
 - [🧮 Scoreboard Overlay](#-scoreboard-overlay)
@@ -163,7 +164,7 @@ These materials were crucial in maintaining a consistent show flow, ensuring smo
 
 ---
 
-## vMix 4K 4M/E I/O
+### vMix 4K 4M/E I/O
 - **Inputs (30x)**:
     - 4x HDMI inputs (2x Z Cam E2N, 1x Obsbot Tail Air, Production Laptop)
     - 3x NDI|HX3 inputs (2x Obsbot Tail Air, 1x ZowieBox - Stage Laptop)
@@ -204,7 +205,7 @@ These materials were crucial in maintaining a consistent show flow, ensuring smo
 
 ---
 
-## Behringer XR18 configuration
+### Behringer XR18 configuration
 - **Inputs**:
     - 1 Wireless mic (Sennheiser EM 100 G4)
     - 2 Wireless mic (Sennheiser EM 100 G4)
@@ -226,6 +227,24 @@ These materials were crucial in maintaining a consistent show flow, ensuring smo
     - iPad + Mixing Station app
     - Google Pixel 3A + Mixing Station app
     - Behringer BCF2000 motorised controller
+
+---
+
+### 🔁 Syncing A/V Latency
+
+In a mixed-source setup like this, each input device introduces a different amount of latency. We used the vMix Statistics window during rehearsals to measure real-world delay for every input.
+
+#### Measured Latencies:
+- 📱 Mobile SRT camera: ~150 ms
+- 📡 NDI sources: ~80 ms
+- 🎥 HDMI capture cards: ~50 ms
+
+#### Sync Strategy:
+- Delayed **NDI & HDMI video inputs** in vMix by ~50 ms
+- Delayed **audio mixer inputs** in vMix by ~130 ms
+
+This approach kept venue audio (mics, PA, VTs) in real time, while the stream and recording were frame-synced. RTMP was used only for YouTube output, so it didn’t impact internal timing.
+
 
 ---
 

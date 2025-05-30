@@ -472,9 +472,10 @@ You are free to:
     - **Martin Čamaj** (Arena Countdown HTML5 page)
 
   Please link to this repository or [https://brejka.sk](https://brejka.sk) when citing or referencing the content.
-- **NonCommercial** — You may not use the material for commercial purposes.
+- **NonCommercial** — You may not sell or commercially redistribute this material on its own or as part of paid products, courses, or services.
 
-Commercial use (such as for paid events, services, or products) requires **prior written permission**.
+✅ You **can** use this material in commercial environments (e.g., live events, client work),  
+🚫 but **you may not sell, license, or monetize** the information itself without **prior written permission**.
 
 📩 Contact: [Dušan Brejka](https://brejka.sk) — [Nyxotek s.r.o.](https://nyxotek.com)
 
